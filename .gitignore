@@ -1,0 +1,57 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados sensíveis / grandes
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.h5
+*.hdf5
+
+# Modelos treinados
+*.pkl
+*.joblib
+*.model
+
+# Imagens geradas
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# Variáveis de ambiente
+.env
+.env.*
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
