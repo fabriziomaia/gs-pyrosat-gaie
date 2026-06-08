@@ -167,6 +167,16 @@ pyrosat/
 
 ---
 
+## RM's
+
+- RM98827 - André Soler
+- RM551869 - Fabrizio Maia Apparicio
+- RM96869 - Rodrigo Paixão 
+- RM551684 - Victor Miguel Gouveia Asfur
+- RM550390 - Vitor Shimizu Farias de Campos
+
+---
+
 ## 🌍 Impacto e ODS
 
 - **ODS 13 — Ação Climática**: alerta precoce reduz emissões de CO₂ por queimadas não controladas
